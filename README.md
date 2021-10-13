@@ -1,3 +1,9 @@
+:warning: 该项目已暂停维护
+===
+欢迎使用最新的开源项目 in剧本 https://github.com/injuben/injuben
+
+---
+
 用 Fountain 写作中文电影剧本
 ===
 
